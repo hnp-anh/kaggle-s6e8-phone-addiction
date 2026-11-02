@@ -1,0 +1,12 @@
+# Python 3.12 (pandas 3 needs >= 3.11)
+numpy==2.5.4
+pandas==3.1.0
+scipy==1.18.1
+scikit-learn==1.9.1
+lightgbm==4.7.0
+catboost==1.2.10
+optuna==5.0.0
+# notebooks only
+matplotlib==3.11.2
+seaborn==0.13.2
+ipykernel==7.4.0

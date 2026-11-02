@@ -1,0 +1,15 @@
+# Environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Kaggle competition data (redistribution not allowed by the competition rules; download with the Kaggle CLI)
+playground-series-s6e8/
+
+# Generated outputs: cached OOF/test predictions (~75 MB) and submission files
+artifacts/
+artifacts_quick/
+submission.csv
+submissions/
+logs/
